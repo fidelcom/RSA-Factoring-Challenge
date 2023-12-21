@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Get the product of two smaller numbers.
+
+gcc factors.c -o a
+./a $1
